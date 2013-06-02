@@ -134,4 +134,4 @@ Exemplo:
         System.out.println("\nProduto Cartesiano:");
         System.out.println(OutrasOperacoes.ProdutoCartesiano(a, b));
         // resultado: <1,7>,<1,9>,<7,7>,<7,9>,<3,7>,<3,9>
-    }
+    } 
